@@ -1,1 +1,1 @@
-# compose-postgres
+# Postgres + pgAdmin4
